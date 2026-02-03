@@ -1,0 +1,3 @@
+Nome: douglas
+Idade: 26
+Salário: 3200
