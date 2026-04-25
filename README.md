@@ -1,3 +1,3 @@
-Apenas um teste ao aprender a usar o git
+Apenas um teste ao aprender a usar o git.
 
-informação adicionada remotamente
+informação adicionada remotamente. 
